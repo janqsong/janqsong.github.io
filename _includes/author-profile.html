@@ -8,8 +8,8 @@
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
-  <div class="author__content" style="text-align: center;">
-    <h3 class="author__name">{{ author.name }}<br>{{ author.name_china }}</h3>
+  <div class="author__content">
+    <h3 class="author__name" style="text-align: center;">{{ author.name }}<br>{{ author.name_china }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
