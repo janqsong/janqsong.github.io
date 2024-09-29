@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "HomePage"
-description              : &name "Jianqing Song"
+# description              : &name "Jianqing Song"
 repository               : "janqsong/janqsong.github.io"
 google_scholar_stats_use_cdn : true
 
