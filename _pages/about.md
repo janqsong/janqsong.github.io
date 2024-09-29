@@ -23,9 +23,8 @@ redirect_from:
 # 💻 Internships
 - **2024.09 - Now** : Department of Statistics and Data Science, Southern University of Science and Technology. Supervised by Prof. [Hongxin Wei](https://hongxin001.github.io).
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- **2024.09**: 🎉🎉 One paper were accepted to NeurIPS Main Track 2024. (CCF-A, Acceptance ratio 25.8%). 
 
 # 📝 Publications
 
@@ -34,16 +33,17 @@ redirect_from:
 **Jianqing Song**, Jianguo Huang, Wenyu Jiang, Baoming Zhang , Shuangjie Li, Chongjun Wang*<br>
 In Advances in Neural Information Processing Systems 37 (**NeurIPS 2024**).
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 🛠️ Projects
 - [TorchCP](https://github.com/ml-stat-Sustech/TorchCP) : A Python toolbox for conformal prediction research on deep learning models, using PyTorch. The [technical report](https://arxiv.org/abs/2402.12683) can give you a quickstart.
+
+# 🎖 Honors and Awards
+- Academic Scholarship of Nanjing University, Nanjing, 2022, 2023.
+- People's Scholarship of Nanjing University, Nanjing, 2019, 2020.
+- Liu Yifeng First Class Scholarship, 2018. 
 
 # 🧑‍🏫 Teaching Assistant
 - **C Programming Language**, Nanjing University, 2022 Autumn.

@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jianqing song / 宋鉴清"
+  name             : "Jianqing Song"
+  name_china       : "宋鉴清"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Ph.D. Student at Department of Computer Science and Technology, Nanjing University"
   location         : "Nanjing, China"
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "janqsong" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
