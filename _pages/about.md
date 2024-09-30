@@ -24,7 +24,7 @@ redirect_from:
 ## 🏨 Conference
 - **Similarity-Navigated Conformal Prediction for Graph Neural Networks** [\[arXiv\]](https://arxiv.org/abs/2405.14303)<br>
 **Jianqing Song**, Jianguo Huang, Wenyu Jiang, Baoming Zhang , Shuangjie Li, Chongjun Wang*<br>
-In Advances in Neural Information Processing Systems 37 (**NeurIPS 2024**).
+In Proceddings of the Thirty-Eighth Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**).
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
