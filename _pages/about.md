@@ -35,7 +35,7 @@ In Proceddings of _the Thirty-Eighth Annual Conference on Neural Information Pro
 - [TorchCP](https://github.com/ml-stat-Sustech/TorchCP) : A Python toolbox for conformal prediction research on deep learning models, using PyTorch. The [technical report](https://arxiv.org/abs/2402.12683) can give you a quickstart.
 
 # 🎓 Educations
-- **2022.09 - Now** : Admitted to pursue for a Ph.D. degree in Nanjing University without entrance examination.
+- **2022.09 - Now** : Admitted to pursue for a Ph.D. degree in School of Computer Science, Nanjing University without entrance examination.
 - **2018.09 - 2022.06** : Receive my B.Sc. degree from Department of Computer Science and Technology, Nanjing University.
 
 # 👨‍💻 Internships
