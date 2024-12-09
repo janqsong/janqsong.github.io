@@ -32,7 +32,13 @@ In Proceddings of _the Thirty-Eighth Annual Conference on Neural Information Pro
 <!-- ## 📓 Journal -->
 
 # 🛠️ Projects
-- [TorchCP](https://github.com/ml-stat-Sustech/TorchCP) : A Python toolbox for conformal prediction research on deep learning models, using PyTorch. The [technical report](https://arxiv.org/abs/2402.12683) can give you a quickstart.
+<div class='paper-box'><div class='paper-box-image'><a href='https://github.com/ml-stat-Sustech/TorchCP'><img src='https://github-readme-stats.vercel.app/api/pin/?username=ml-stat-Sustech&repo=TorchCP&show_owner=true' alt="sym" width="100%"></a></div>
+<div class='paper-box-text' markdown="1">
+ Python toolbox for conformal prediction research on deep learning models, using PyTorch. The [technical report](https://arxiv.org/abs/2402.12683) can give you a quickstart.
+</div>
+</div>
+
+<!-- - [TorchCP](https://github.com/ml-stat-Sustech/TorchCP) : A Python toolbox for conformal prediction research on deep learning models, using PyTorch. The [technical report](https://arxiv.org/abs/2402.12683) can give you a quickstart. -->
 
 # 🎓 Educations
 - **2022.09 - Now** : Admitted to pursue for a Ph.D. degree in School of Computer Science, Nanjing University without entrance examination.
@@ -42,10 +48,10 @@ In Proceddings of _the Thirty-Eighth Annual Conference on Neural Information Pro
 - **2024.09 - Now** : Department of Statistics and Data Science, Southern University of Science and Technology. Supervised by Prof. [Hongxin Wei](https://hongxin001.github.io).
 
 # 🎖 Honors and Awards
-<!-- - Excellent Graduate of Nanjing University, Nanjing, 2024.
+<!-- - Outstanding Graduate Student of Nanjing University, 2024.
 - The First Class Graduate Student Scholarship, 2024. -->
-- Academic Scholarship of Nanjing University, Nanjing, 2022, 2023, 2024.
-- People's Scholarship of Nanjing University, Nanjing, 2019, 2020.
+- Academic Scholarship of Nanjing University, 2022, 2023, 2024.
+- People's Scholarship of Nanjing University, 2019, 2020.
 - Liu Yifeng First Class Scholarship, 2018. 
 
 # 🧑‍🏫 Teaching Assistant
