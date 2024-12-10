@@ -17,8 +17,8 @@ redirect_from:
 - My current research interests mainly focus on Conformal Prediction, Uncertainty Quantification, Graph Neural Networks.
 
 # 🔥 News
-- **2024.09**: 🎉🎉 One paper were accepted to NeurIPS Main Track 2024. (CCF-A, Acceptance ratio 25.8%). 
 - **2024.12**: 🎉🎉 One paper were accepted to AAAI 2025. (CCF-A, Acceptance ratio 23.4%).
+- **2024.09**: 🎉🎉 One paper were accepted to NeurIPS Main Track 2024. (CCF-A, Acceptance ratio 25.8%).
 
 # 📝 Publications
 (* Corresponding author)
