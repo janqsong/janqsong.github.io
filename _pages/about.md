@@ -18,6 +18,7 @@ redirect_from:
 
 # 🔥 News
 - **2024.09**: 🎉🎉 One paper were accepted to NeurIPS Main Track 2024. (CCF-A, Acceptance ratio 25.8%). 
+- **2024.12**: 🎉🎉 One paper were accepted to AAAI 2025. (CCF-A, Acceptance ratio 23.4%).
 
 # 📝 Publications
 (* Corresponding author)
@@ -28,6 +29,11 @@ redirect_from:
 - **Similarity-Navigated Conformal Prediction for Graph Neural Networks** [\[arXiv\]](https://arxiv.org/abs/2405.14303)<br>
 **Jianqing Song**, Jianguo Huang, Wenyu Jiang, Baoming Zhang , Shuangjie Li, Chongjun Wang*<br>
 In Proceddings of _the Thirty-Eighth Annual Conference on Neural Information Processing Systems_ (**NeurIPS 2024**).
+
+- **Normalize then Propagate: Efficient Homophilous Regularization for Few-shot Semi-Supervised Node Classification**<br>
+Baoming Zhang, MingCai Chen, **Jianqing Song**, Shuangjie Li, Jie Zhang, Chongjun Wang*<br>
+In Proceddings of _the 39th Annual AAAI Conference on Artificial Intelligence_ (**AAAI 2025**).
+
 
 <!-- ## 📓 Journal -->
 
